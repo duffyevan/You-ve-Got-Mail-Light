@@ -1,7 +1,7 @@
 import poplib
 import RPi.GPIO as GPIO
 import time
-host = "exchange.whatever.com" #your pop3 server hostname
+host = "exchange.whatever.com"
 uname = "your username"
 password = "your password"
 led = 13 #found this number from the website listed below (This is really BCM 21)
