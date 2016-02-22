@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo python /bin/pop.py &
-sudo python /bin/imap.py &
+sudo python /bin/MailLight.py &
